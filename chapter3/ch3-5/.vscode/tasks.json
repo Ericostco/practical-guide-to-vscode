@@ -18,7 +18,7 @@
         "label": "UI-Command: Open Settings Page",
         "dependsOn": [
           "SubCommand: Hello Multiple Command", 
-          "SubCommand: ToggleSidebar", 
+          "SubCommand: CloseSidebar", 
           "SubCommand: Open Settings Page"
         ],
         "dependsOrder": "sequence",
